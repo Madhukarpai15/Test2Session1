@@ -1,1 +1,5 @@
+Enter the number of terms: 8
+The 8th term of the fibonacci series is: 21
 
+Enter the number of terms: 10
+The 10th term of the fibonacci series is: 55
