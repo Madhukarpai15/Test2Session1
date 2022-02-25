@@ -10,7 +10,7 @@ int input()
 
 int find_fibo(int n)
 {
-  int i=2,sum=0;
+  int i=2;
   int a[n];
   a[0]=0;
   a[1]=1;
@@ -20,7 +20,7 @@ int find_fibo(int n)
     
     
   }
-  return a[n];
+  return a[n-1];
 }
 
 void output(int n,int fibo)
